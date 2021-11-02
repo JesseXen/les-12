@@ -1,5 +1,5 @@
 # les-12
 ## image
-[screenshot](cssbox.png)
+[screenshot before](cssbox.png)
 
-[screenshot](cssbox2.png)
+[screenshot after](cssbox2.png)
